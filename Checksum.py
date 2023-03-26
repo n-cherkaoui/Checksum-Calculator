@@ -3,7 +3,7 @@
 # Author: Nawfal Cherkaoui Elmalki
 # Language: Python3
 #
-# To Compile & Execute: python3 pa02.py inputFile.txt 8
+# To Compile & Execute: python3 Checksum.py inputFile.txt 8
 #
 # where inputFile.txt is an ASCII input file
 # and the number 8 could also be 16 or 32
